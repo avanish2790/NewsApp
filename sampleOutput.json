@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "thestreet.com",
+      "title": "Elon Musk Agrees on Who Is Responsible for America's Problems",
+      "description": "The current banking turmoil has revived the ghosts of the 2008 financial crisis, while the great unity around support for Ukraine at war with Russia is showing cracks. Elon Musk sees himself as a global CEO. He gives his opinions on all issues without excepti…",
+      "url": "https://biztoc.com/x/2e2588d1378a1f11",
+      "urlToImage": "https://c.biztoc.com/p/2e2588d1378a1f11/og.webp",
+      "publishedAt": "2023-03-26T17:58:07Z",
+      "content": "The current banking turmoil has revived the ghosts of the 2008 financial crisis, while the great unity around support for Ukraine at war with Russia is showing cracks.Elon Musk sees himself as a glob… [+299 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CryptoGlobe"
+      },
+      "author": "Siamak Masnavi",
+      "title": "Popular ‘Linus Tech Tips’ YouTube Channel Hacked in the Latest Bitcoin Scam",
+      "description": "Prominent tech influencer Linus Sebastian’s three YouTube channels, “Linus Tech Tips,” “Techquickie,” and “TechLinked,” were hacked in the early hours of Friday, March 24th. The Verge reported on that day that this incident is part of a string of high-profile…",
+      "url": "https://www.cryptoglobe.com/latest/2023/03/popular-linus-tech-tips-youtube-channel-hacked-in-the-latest-bitcoin-scam/",
+      "urlToImage": "https://cryptoglobe.s3.eu-west-2.amazonaws.com/2023/03/bitcoin-5-768x430.png",
+      "publishedAt": "2023-03-26T17:48:47Z",
+      "content": "Prominent tech influencer Linus Sebastians three YouTube channels, Linus Tech Tips, Techquickie, and TechLinked, were hacked in the early hours of Friday, March 24th. \r\nThe Verge reported on that day… [+3249 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CleanTechnica"
+      },
+      "author": "Guest Contributor",
+      "title": "Today’s Electric Vehicles Can Greatly Reduce Emissions From Driving",
+      "description": "Today’s Electric Vehicles Can Greatly Reduce Emissions From Driving, e passenger vehicles many of us drive are responsible",
+      "url": "https://cleantechnica.com/2023/03/26/todays-electric-vehicles-can-greatly-reduce-emissions-from-driving/",
+      "urlToImage": "http://cleantechnica.com/files/2023/03/7Charge-7-Eleven-charging-stations.jpeg",
+      "publishedAt": "2023-03-26T17:39:02Z",
+      "content": "Transportation is the largest source of global warming emissions in the US, and the passenger vehicles many of us drive are responsible for the majority of transportation global warming emissions. Av… [+7074 chars]"
+    }
+  ]
+}
